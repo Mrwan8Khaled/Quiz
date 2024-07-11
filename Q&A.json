@@ -1,0 +1,780 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of Egypt?",
+      "answer": "A",
+      "A": "Cairo",
+      "B": "Alexandria",
+      "C": "Giza",
+      "D": "Luxor"
+    },
+    {
+      "question": "What is the official language of Egypt?",
+      "answer": "B",
+      "A": "English",
+      "B": "Arabic",
+      "C": "French",
+      "D": "Spanish"
+    },
+    {
+      "question": "What is the name of the famous ancient Egyptian writing system?",
+      "answer": "C",
+      "A": "Cuneiform",
+      "B": "Latin",
+      "C": "Hieroglyphics",
+      "D": "Runes"
+    },
+    {
+      "question": "Who was the last active ruler of the Ptolemaic Kingdom of Egypt?",
+      "answer": "A",
+      "A": "Cleopatra",
+      "B": "Nefertiti",
+      "C": "Hatshepsut",
+      "D": "Tutankhamun"
+    },
+    {
+      "question": "What is the longest river in Egypt?",
+      "answer": "D",
+      "A": "Amazon",
+      "B": "Yangtze",
+      "C": "Mississippi",
+      "D": "Nile"
+    },
+    {
+      "question": "Which famous structure is located in Giza, Egypt?",
+      "answer": "B",
+      "A": "The Colosseum",
+      "B": "The Great Pyramid",
+      "C": "The Eiffel Tower",
+      "D": "The Statue of Liberty"
+    },
+    {
+      "question": "Which desert covers most of Egypt?",
+      "answer": "C",
+      "A": "Sahara",
+      "B": "Arabian",
+      "C": "Sahara",
+      "D": "Kalahari"
+    },
+    {
+      "question": "Who is considered the first Pharaoh of a unified Egypt?",
+      "answer": "A",
+      "A": "Narmer",
+      "B": "Ramesses II",
+      "C": "Akhenaten",
+      "D": "Khufu"
+    },
+    {
+      "question": "Which sea borders Egypt to the north?",
+      "answer": "B",
+      "A": "Red Sea",
+      "B": "Mediterranean Sea",
+      "C": "Black Sea",
+      "D": "Arabian Sea"
+    },
+    {
+      "question": "What is the main religion practiced in Egypt?",
+      "answer": "A",
+      "A": "Islam",
+      "B": "Christianity",
+      "C": "Judaism",
+      "D": "Hinduism"
+    },
+    {
+      "question": "What is the currency of Egypt?",
+      "answer": "B",
+      "A": "Dollar",
+      "B": "Egyptian Pound",
+      "C": "Euro",
+      "D": "Rupee"
+    },
+    {
+      "question": "What is the largest city in Egypt?",
+      "answer": "A",
+      "A": "Cairo",
+      "B": "Alexandria",
+      "C": "Giza",
+      "D": "Luxor"
+    },
+    {
+      "question": "What is Egypt's official name?",
+      "answer": "C",
+      "A": "Republic of Egypt",
+      "B": "United Arab Republic",
+      "C": "Arab Republic of Egypt",
+      "D": "Kingdom of Egypt"
+    },
+    {
+      "question": "Which Egyptian city is famous for the Library of Alexandria?",
+      "answer": "B",
+      "A": "Cairo",
+      "B": "Alexandria",
+      "C": "Luxor",
+      "D": "Aswan"
+    },
+    {
+      "question": "Who was the Egyptian god of the sun?",
+      "answer": "A",
+      "A": "Ra",
+      "B": "Osiris",
+      "C": "Anubis",
+      "D": "Horus"
+    },
+    {
+      "question": "Which period is known as the 'Age of the Pyramids'?",
+      "answer": "C",
+      "A": "New Kingdom",
+      "B": "Middle Kingdom",
+      "C": "Old Kingdom",
+      "D": "Late Period"
+    },
+    {
+      "question": "What is the primary writing material used in ancient Egypt?",
+      "answer": "A",
+      "A": "Papyrus",
+      "B": "Parchment",
+      "C": "Stone",
+      "D": "Clay"
+    },
+    {
+      "question": "Which famous queen was married to Pharaoh Akhenaten?",
+      "answer": "B",
+      "A": "Cleopatra",
+      "B": "Nefertiti",
+      "C": "Hatshepsut",
+      "D": "Ankhesenamun"
+    },
+    {
+      "question": "What is the main building material of the Great Pyramid of Giza?",
+      "answer": "D",
+      "A": "Brick",
+      "B": "Mud",
+      "C": "Wood",
+      "D": "Limestone"
+    },
+    {
+      "question": "What is the ancient Egyptian symbol of life?",
+      "answer": "C",
+      "A": "Scarab",
+      "B": "Eye of Horus",
+      "C": "Ankh",
+      "D": "Lotus"
+    },
+    {
+      "question": "What is the main purpose of the Sphinx in ancient Egypt?",
+      "answer": "A",
+      "A": "Guarding the pyramids",
+      "B": "Telling the time",
+      "C": "Performing rituals",
+      "D": "Storing treasures"
+    },
+    {
+      "question": "Which Egyptian god is known as the god of the underworld?",
+      "answer": "B",
+      "A": "Ra",
+      "B": "Osiris",
+      "C": "Anubis",
+      "D": "Horus"
+    },
+    {
+      "question": "What is the ancient Egyptian book of the dead?",
+      "answer": "A",
+      "A": "A collection of spells and prayers",
+      "B": "A historical record",
+      "C": "A medical guide",
+      "D": "A farming manual"
+    },
+    {
+      "question": "Which Egyptian city is home to the Valley of the Kings?",
+      "answer": "C",
+      "A": "Cairo",
+      "B": "Alexandria",
+      "C": "Luxor",
+      "D": "Aswan"
+    },
+    {
+      "question": "What is the name of the Egyptian god of the sky?",
+      "answer": "D",
+      "A": "Ra",
+      "B": "Osiris",
+      "C": "Anubis",
+      "D": "Horus"
+    },
+    {
+      "question": "Which pharaoh built the Great Pyramid of Giza?",
+      "answer": "B",
+      "A": "Tutankhamun",
+      "B": "Khufu",
+      "C": "Ramesses II",
+      "D": "Akhenaten"
+    },
+    {
+      "question": "Which ancient Egyptian queen is famous for her beauty and power?",
+      "answer": "A",
+      "A": "Cleopatra",
+      "B": "Nefertiti",
+      "C": "Hatshepsut",
+      "D": "Ankhesenamun"
+    },
+    {
+      "question": "What is the Rosetta Stone?",
+      "answer": "C",
+      "A": "An ancient map",
+      "B": "A tombstone",
+      "C": "A stone with inscriptions that helped decipher hieroglyphics",
+      "D": "A statue"
+    },
+    {
+      "question": "Which modern country was part of the ancient Egyptian Empire?",
+      "answer": "D",
+      "A": "Greece",
+      "B": "Italy",
+      "C": "India",
+      "D": "Sudan"
+    },
+    {
+      "question": "What was the primary use of the Nile River in ancient Egypt?",
+      "answer": "A",
+      "A": "Agriculture",
+      "B": "Drinking water",
+      "C": "Fishing",
+      "D": "Swimming"
+    },
+    {
+      "question": "Which Egyptian pharaoh was known for his extensive building projects?",
+      "answer": "B",
+      "A": "Tutankhamun",
+      "B": "Ramesses II",
+      "C": "Khufu",
+      "D": "Narmer"
+    },
+    {
+      "question": "Which Egyptian god is depicted with a falcon head?",
+      "answer": "D",
+      "A": "Ra",
+      "B": "Osiris",
+      "C": "Anubis",
+      "D": "Horus"
+    },
+    {
+      "question": "Which is the largest pyramid in Egypt?",
+      "answer": "B",
+      "A": "Pyramid of Khafre",
+      "B": "Great Pyramid of Giza",
+      "C": "Pyramid of Menkaure",
+      "D": "Bent Pyramid"
+    },
+    {
+      "question": "What is the name of the cat goddess in ancient Egyptian mythology?",
+      "answer": "A",
+      "A": "Bastet",
+      "B": "Sekhmet",
+      "C": "Isis",
+      "D": "Hathor"
+    },
+    {
+      "question": "What is the ancient Egyptian symbol of protection?",
+      "answer": "B",
+      "A": "Ankh",
+      "B": "Eye of Horus",
+      "C": "Scarab",
+      "D": "Lotus"
+    },
+    {
+      "question": "Which modern city is built near the site of ancient Thebes?",
+      "answer": "D",
+      "A": "Cairo",
+      "B": "Alexandria",
+      "C": "Aswan",
+      "D": "Luxor"
+    },
+    {
+      "question": "What is the traditional headcloth worn by ancient Egyptian pharaohs called?",
+      "answer": "A",
+      "A": "Nemes",
+      "B": "Khat",
+      "C": "Heka",
+      "D": "Pschent"
+    },
+    {
+      "question": "Which Egyptian god is associated with embalming and the afterlife?",
+      "answer": "C",
+      "A": "Ra",
+      "B": "Osiris",
+      "C": "Anubis",
+      "D": "Horus"
+    },
+    {
+      "question": "Which period in ancient Egypt is known for the construction of the most famous pyramids?",
+      "answer": "B",
+      "A": "New Kingdom",
+      "B": "Old Kingdom",
+      "C": "Middle Kingdom",
+      "D": "Late Period"
+    },
+    {
+      "question": "What is the main purpose of the obelisks in ancient Egypt?",
+      "answer": "D",
+      "A": "Tombs",
+      "B": "Altars",
+      "C": "Markets",
+      "D": "Monuments"
+    },
+    {
+      "question": "Which Egyptian city is known for the Temple of Karnak?",
+      "answer": "C",
+      "A": "Cairo",
+      "B": "Alexandria",
+      "C": "Luxor",
+      "D": "Aswan"
+    },
+    {
+      "question": "Who was the Egyptian god of wisdom and writing?",
+      "answer": "B",
+      "A": "Ra",
+      "B": "Thoth",
+      "C": "Osiris",
+      "D": "Anubis"
+    },
+    {
+      "question": "Which pharaoh's tomb was discovered intact in 1922 by Howard Carter?",
+      "answer": "D",
+      "A": "Ramesses II",
+      "B": "Khufu",
+      "C": "Akhenaten",
+      "D": "Tutankhamun"
+    },
+    {
+      "question": "Which Egyptian goddess is known as the goddess of motherhood and fertility?",
+      "answer": "A",
+      "A": "Isis",
+      "B": "Sekhmet",
+      "C": "Nephthys",
+      "D": "Bastet"
+    },
+    {
+      "question": "What is the purpose of the canopic jars in ancient Egyptian burial practices?",
+      "answer": "B",
+      "A": "Storing jewelry",
+      "B": "Holding internal organs",
+      "C": "Containing food",
+      "D": "Carrying water"
+    },
+    {
+      "question": "Which ancient Egyptian city was known as the capital of the Old Kingdom?",
+      "answer": "A",
+      "A": "Memphis",
+      "B": "Thebes",
+      "C": "Heliopolis",
+      "D": "Alexandria"
+    },
+    {
+      "question": "What is the ancient Egyptian festival of the Opet?",
+      "answer": "D",
+      "A": "A harvest festival",
+      "B": "A new year celebration",
+      "C": "A religious fast",
+      "D": "A festival honoring Amun"
+    },
+    {
+      "question": "Which Egyptian pharaoh changed his name to Akhenaten and promoted monotheism?",
+      "answer": "B",
+      "A": "Tutankhamun",
+      "B": "Amenhotep IV",
+      "C": "Ramesses II",
+      "D": "Thutmose III"
+    },
+    {
+      "question": "What is the main theme depicted in the ancient Egyptian art?",
+      "answer": "A",
+      "A": "Religion and the afterlife",
+      "B": "War and conquests",
+      "C": "Nature and animals",
+      "D": "Love and romance"
+    },
+    {
+      "question": "Which Egyptian goddess is depicted as a lioness?",
+      "answer": "B",
+      "A": "Isis",
+      "B": "Sekhmet",
+      "C": "Nephthys",
+      "D": "Hathor"
+    },
+    {
+      "question": "What was the primary function of the pyramids in ancient Egypt?",
+      "answer": "C",
+      "A": "Temples",
+      "B": "Markets",
+      "C": "Tombs",
+      "D": "Palaces"
+    },
+    {
+      "question": "Which ancient Egyptian city was famous for its lighthouse, one of the Seven Wonders of the Ancient World?",
+      "answer": "A",
+      "A": "Alexandria",
+      "B": "Cairo",
+      "C": "Giza",
+      "D": "Thebes"
+    },
+    {
+      "question": "Who was the mother of King Tutankhamun?",
+      "answer": "D",
+      "A": "Cleopatra",
+      "B": "Hatshepsut",
+      "C": "Nefertiti",
+      "D": "Kiya"
+    },
+    {
+      "question": "What is the term for the preserved bodies of ancient Egyptians?",
+      "answer": "B",
+      "A": "Statues",
+      "B": "Mummies",
+      "C": "Skeletons",
+      "D": "Pharaohs"
+    },
+    {
+      "question": "Which ancient Egyptian city was known for its great temple complex at Abu Simbel?",
+      "answer": "A",
+      "A": "Aswan",
+      "B": "Cairo",
+      "C": "Luxor",
+      "D": "Alexandria"
+    },
+    {
+      "question": "Which Egyptian pharaoh is known for his military conquests and extensive building projects?",
+      "answer": "C",
+      "A": "Tutankhamun",
+      "B": "Khufu",
+      "C": "Ramesses II",
+      "D": "Narmer"
+    },
+    {
+      "question": "What is the name of the ancient Egyptian sun disk worshipped during the reign of Akhenaten?",
+      "answer": "D",
+      "A": "Ra",
+      "B": "Horus",
+      "C": "Amun",
+      "D": "Aten"
+    },
+    {
+      "question": "Which Egyptian god is often depicted with the head of a jackal?",
+      "answer": "A",
+      "A": "Anubis",
+      "B": "Osiris",
+      "C": "Horus",
+      "D": "Thoth"
+    },
+    {
+      "question": "Which ancient Egyptian queen ruled as pharaoh during the New Kingdom?",
+      "answer": "B",
+      "A": "Cleopatra",
+      "B": "Hatshepsut",
+      "C": "Nefertiti",
+      "D": "Ankhesenamun"
+    },
+    {
+      "question": "What is the main purpose of the hieroglyphic writing system?",
+      "answer": "C",
+      "A": "Scientific texts",
+      "B": "Literature",
+      "C": "Religious and administrative texts",
+      "D": "Personal letters"
+    },
+    {
+      "question": "What is the name of the structure built by Pharaoh Djoser, considered the first pyramid in Egypt?",
+      "answer": "D",
+      "A": "Bent Pyramid",
+      "B": "Red Pyramid",
+      "C": "Great Pyramid",
+      "D": "Step Pyramid"
+    },
+    {
+      "question": "Which ancient Egyptian goddess is associated with magic and healing?",
+      "answer": "A",
+      "A": "Isis",
+      "B": "Nephthys",
+      "C": "Hathor",
+      "D": "Bastet"
+    },
+    {
+      "question": "What was the purpose of the ancient Egyptian 'Book of the Dead'?",
+      "answer": "B",
+      "A": "A history book",
+      "B": "A guide for the afterlife",
+      "C": "A medical text",
+      "D": "A legal code"
+    },
+    {
+      "question": "Which pharaoh built the famous temples at Abu Simbel?",
+      "answer": "C",
+      "A": "Tutankhamun",
+      "B": "Khufu",
+      "C": "Ramesses II",
+      "D": "Akhenaten"
+    },
+    {
+      "question": "What is the term for the life force or soul in ancient Egyptian belief?",
+      "answer": "A",
+      "A": "Ka",
+      "B": "Ba",
+      "C": "Ma'at",
+      "D": "Ra"
+    },
+    {
+      "question": "Which ancient Egyptian site is known for its massive rock-cut temples?",
+      "answer": "D",
+      "A": "Giza",
+      "B": "Luxor",
+      "C": "Cairo",
+      "D": "Abu Simbel"
+    },
+    {
+      "question": "Who was the consort of Osiris in ancient Egyptian mythology?",
+      "answer": "B",
+      "A": "Hathor",
+      "B": "Isis",
+      "C": "Nephthys",
+      "D": "Bastet"
+    },
+    {
+      "question": "What is the name of the famous stone that helped decipher Egyptian hieroglyphs?",
+      "answer": "C",
+      "A": "Pyramid Text",
+      "B": "Obelisk",
+      "C": "Rosetta Stone",
+      "D": "Cartouche"
+    },
+    {
+      "question": "Which ancient Egyptian city was known as the City of the Dead?",
+      "answer": "A",
+      "A": "Thebes",
+      "B": "Memphis",
+      "C": "Heliopolis",
+      "D": "Alexandria"
+    },
+    {
+      "question": "Which goddess is known as the daughter of Ra and the goddess of truth and justice?",
+      "answer": "B",
+      "A": "Isis",
+      "B": "Ma'at",
+      "C": "Nephthys",
+      "D": "Bastet"
+    },
+    {
+      "question": "What was the primary building material used in ancient Egyptian temples?",
+      "answer": "D",
+      "A": "Wood",
+      "B": "Brick",
+      "C": "Mud",
+      "D": "Stone"
+    },
+    {
+      "question": "Which period in ancient Egypt was known for its art and literature?",
+      "answer": "A",
+      "A": "Middle Kingdom",
+      "B": "Old Kingdom",
+      "C": "New Kingdom",
+      "D": "First Intermediate Period"
+    },
+    {
+      "question": "What is the name of the annual flooding of the Nile that was crucial to Egyptian agriculture?",
+      "answer": "B",
+      "A": "Inundation",
+      "B": "Nile Flood",
+      "C": "Cataract",
+      "D": "Nile Rise"
+    },
+    {
+      "question": "Who was the ancient Egyptian god of chaos and disorder?",
+      "answer": "D",
+      "A": "Horus",
+      "B": "Osiris",
+      "C": "Ra",
+      "D": "Seth"
+    },
+    {
+      "question": "Which ancient Egyptian temple complex is known for its massive columns and statues?",
+      "answer": "C",
+      "A": "Abu Simbel",
+      "B": "Luxor Temple",
+      "C": "Karnak Temple",
+      "D": "Temple of Edfu"
+    },
+    {
+      "question": "Which pharaoh was known for her prosperous reign and extensive trade expeditions?",
+      "answer": "B",
+      "A": "Cleopatra",
+      "B": "Hatshepsut",
+      "C": "Nefertiti",
+      "D": "Ankhesenamun"
+    },
+    {
+      "question": "What is the term for the ancient Egyptian concept of balance, order, and harmony?",
+      "answer": "D",
+      "A": "Ka",
+      "B": "Ba",
+      "C": "Ra",
+      "D": "Ma'at"
+    },
+    {
+      "question": "Which Egyptian city is known for the ancient temple dedicated to the god Horus?",
+      "answer": "C",
+      "A": "Cairo",
+      "B": "Alexandria",
+      "C": "Edfu",
+      "D": "Luxor"
+    },
+    {
+      "question": "What is the name of the structure built by the pharaoh Sneferu that has a bent shape?",
+      "answer": "B",
+      "A": "Step Pyramid",
+      "B": "Bent Pyramid",
+      "C": "Red Pyramid",
+      "D": "Great Pyramid"
+    },
+    {
+      "question": "Who was the ancient Egyptian god of the sun and creation?",
+      "answer": "A",
+      "A": "Ra",
+      "B": "Osiris",
+      "C": "Horus",
+      "D": "Anubis"
+    },
+    {
+      "question": "What is the name of the traditional reed boat used on the Nile River?",
+      "answer": "B",
+      "A": "Dhow",
+      "B": "Felucca",
+      "C": "Raft",
+      "D": "Skiff"
+    },
+    {
+      "question": "Which ancient Egyptian city is known for the Step Pyramid of Djoser?",
+      "answer": "C",
+      "A": "Thebes",
+      "B": "Heliopolis",
+      "C": "Saqqara",
+      "D": "Memphis"
+    },
+    {
+      "question": "What was the primary purpose of the ancient Egyptian temples?",
+      "answer": "D",
+      "A": "Markets",
+      "B": "Tombs",
+      "C": "Schools",
+      "D": "Places of worship and rituals"
+    },
+    {
+      "question": "Which Egyptian pharaoh had the longest reign?",
+      "answer": "A",
+      "A": "Ramesses II",
+      "B": "Tutankhamun",
+      "C": "Khufu",
+      "D": "Narmer"
+    },
+    {
+      "question": "Which goddess is depicted with a cow's horns and a solar disk?",
+      "answer": "B",
+      "A": "Isis",
+      "B": "Hathor",
+      "C": "Nephthys",
+      "D": "Bastet"
+    },
+    {
+      "question": "What is the ancient Egyptian practice of preserving the body after death?",
+      "answer": "A",
+      "A": "Mummification",
+      "B": "Embalming",
+      "C": "Cremation",
+      "D": "Burial"
+    },
+    {
+      "question": "Which ancient Egyptian city was known for its obelisks?",
+      "answer": "D",
+      "A": "Thebes",
+      "B": "Memphis",
+      "C": "Giza",
+      "D": "Heliopolis"
+    },
+    {
+      "question": "Who was the first female pharaoh of ancient Egypt?",
+      "answer": "A",
+      "A": "Hatshepsut",
+      "B": "Cleopatra",
+      "C": "Nefertiti",
+      "D": "Ankhesenamun"
+    },
+    {
+      "question": "Which ancient Egyptian god is associated with the moon?",
+      "answer": "B",
+      "A": "Ra",
+      "B": "Thoth",
+      "C": "Horus",
+      "D": "Anubis"
+    },
+    {
+      "question": "Which ancient Egyptian structure was built as a tomb for Pharaoh Khufu?",
+      "answer": "A",
+      "A": "Great Pyramid of Giza",
+      "B": "Step Pyramid",
+      "C": "Bent Pyramid",
+      "D": "Red Pyramid"
+    },
+    {
+      "question": "What is the term for the spirit double in ancient Egyptian belief?",
+      "answer": "A",
+      "A": "Ka",
+      "B": "Ba",
+      "C": "Ma'at",
+      "D": "Ra"
+    },
+    {
+      "question": "Which ancient Egyptian pharaoh was known for the construction of the Luxor Temple?",
+      "answer": "D",
+      "A": "Tutankhamun",
+      "B": "Khufu",
+      "C": "Akhenaten",
+      "D": "Amenhotep III"
+    },
+    {
+      "question": "What is the name of the ancient Egyptian symbol of eternal life?",
+      "answer": "B",
+      "A": "Scarab",
+      "B": "Ankh",
+      "C": "Lotus",
+      "D": "Eye of Horus"
+    },
+    {
+      "question": "Which ancient Egyptian city was known as the capital of Upper Egypt?",
+      "answer": "C",
+      "A": "Memphis",
+      "B": "Heliopolis",
+      "C": "Thebes",
+      "D": "Alexandria"
+    },
+    {
+      "question": "Which ancient Egyptian queen was famous for her diplomatic relations with Rome?",
+      "answer": "A",
+      "A": "Cleopatra",
+      "B": "Hatshepsut",
+      "C": "Nefertiti",
+      "D": "Ankhesenamun"
+    },
+    {
+      "question": "What is the ancient Egyptian term for the physical body?",
+      "answer": "B",
+      "A": "Ka",
+      "B": "Khat",
+      "C": "Ba",
+      "D": "Ma'at"
+    },
+    {
+      "question": "Which ancient Egyptian city is known for its great necropolis and tombs?",
+      "answer": "D",
+      "A": "Cairo",
+      "B": "Alexandria",
+      "C": "Aswan",
+      "D": "Luxor"
+    }
+  ]
+}

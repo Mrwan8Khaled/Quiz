@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Sen&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Sen', sans-serif;
+}
+
+body {
+    background-image: url("background.jpg");
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.quiz {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 800px;
+    height: 250px;
+    border-radius: 10px;
+    box-shadow: 0 0 30px 8px rgba(90, 165, 250, 0.521);
+    backdrop-filter: blur(5px);
+    overflow: hidden;
+}
+
+.container {
+    background-color: #C1E8FF;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.container #timer {
+    width: 100%;
+    height: 5px;
+    background-color: #021024;
+}
+
+.ans {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    width: 100%;
+    height: 200px;
+}
+
+.ans div {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.ans .box {
+    height: 50px;
+    width: 200px;
+
+    background-color: #7DA0CA;
+    margin: auto;
+    border-radius: 8px;
+    
+    overflow: hidden;
+    cursor: pointer;
+    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.ans .box h3 {font-size: 16px; padding: 5px;}
+
+.ans .box .letter {
+    height: 100%;
+    width: 25%;
+    background-color: #194485;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
