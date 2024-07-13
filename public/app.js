@@ -5,6 +5,8 @@ const q4 = document.getElementById("q4");
 const que = document.getElementById("qs");
 let ans = null;
 
+const socket = io();
+
 function quest(url) {
   fetch(url, {
     method: "GET",
